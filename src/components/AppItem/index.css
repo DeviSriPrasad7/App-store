@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list-container-two {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 7px;
+  height: 25vh;
+  padding: 25px;
+  margin: 5px;
+}
+.logo {
+  height: 70px;
+  width: 70px;
+}

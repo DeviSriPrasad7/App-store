@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  margin: 10px;
+}
+.button {
+  background-color: transparent;
+  border-color: transparent;
+}
+.highlight-button {
+  color: #2563eb;
+  text-decoration: underline;
+  text-decoration-color: #2563eb;
+  font-size: 25px;
+  background-color: transparent;
+  border: 2px none transparent;
+}
+.normal {
+  color: #7b8794;
+  font-size: 25px;
+  background-color: transparent;
+  border: 2px none transparent;
+}
